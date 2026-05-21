@@ -1,0 +1,44 @@
+﻿domestic_product_code,domestic_product_name,domestic_exchange_code,domestic_exchange_name,foreign_product_code,foreign_product_name,foreign_exchange_code,foreign_exchange_name,foreign_country,mapping_order,mapping_strength,mapping_note,source_url,updated_at
+cu,铜,SHFE,上海期货交易所,HG,铜,COMEX,COMEX,美国,1,A,主映射：同一基础金属，COMEX Copper,https://www.cmegroup.com/markets/metals/base/copper.html,2026-05-21
+cu,铜,SHFE,上海期货交易所,CA,铜,LME,London Metal Exchange,英国,2,A,主映射：同一基础金属，LME Copper；代码按常见行情源口径保留为CA,https://www.lme.com/Metals/Non-ferrous/LME-Copper,2026-05-21
+al,铝,SHFE,上海期货交易所,AL,铝,LME,London Metal Exchange,英国,1,A,主映射：同一基础金属，LME Aluminium；代码按常见行情源口径保留为AL,https://www.lme.com/Metals/Non-ferrous/LME-Aluminium,2026-05-21
+al,铝,SHFE,上海期货交易所,ALI,铝,COMEX,COMEX,美国,2,B,辅助映射：COMEX Aluminium，需按公司国外行情源代码确认,https://www.cmegroup.com/markets/metals/base/aluminum.html,2026-05-21
+zn,锌,SHFE,上海期货交易所,ZS,锌,LME,London Metal Exchange,英国,1,A,主映射：同一基础金属，LME Zinc；代码按常见行情源口径保留为ZS,https://www.lme.com/Metals/Non-ferrous/LME-Zinc,2026-05-21
+pb,铅,SHFE,上海期货交易所,PB,铅,LME,London Metal Exchange,英国,1,A,主映射：同一基础金属，LME Lead；该行必须写死，不能由模糊匹配覆盖,https://www.lme.com/Metals/Non-ferrous/LME-Lead,2026-05-21
+ni,镍,SHFE,上海期货交易所,NI,镍,LME,London Metal Exchange,英国,1,A,主映射：同一基础金属，LME Nickel,https://www.lme.com/Metals/Non-ferrous/LME-Nickel,2026-05-21
+sn,锡,SHFE,上海期货交易所,SN,锡,LME,London Metal Exchange,英国,1,A,主映射：同一基础金属，LME Tin,https://www.lme.com/Metals/Non-ferrous/LME-Tin,2026-05-21
+au,黄金,SHFE,上海期货交易所,GC,黄金,COMEX,COMEX,美国,1,A,主映射：同一贵金属，COMEX Gold,https://www.cmegroup.com/markets/metals/precious/gold.html,2026-05-21
+au,黄金,SHFE,上海期货交易所,JAU,黄金,TOCOM,Tokyo Commodity Exchange,日本,2,B,辅助映射：TOCOM Gold；国外行情源代码需确认,https://www.jpx.co.jp/english/derivatives/products/precious-metals/gold-futures/index.html,2026-05-21
+ag,白银,SHFE,上海期货交易所,SI,白银,COMEX,COMEX,美国,1,A,主映射：同一贵金属，COMEX Silver,https://www.cmegroup.com/markets/metals/precious/silver.html,2026-05-21
+ag,白银,SHFE,上海期货交易所,AG,白银,LME,London Metal Exchange,英国,2,B,辅助映射：按旧表/常见行情源口径保留，需确认是否仍有有效国外数据源,https://www.lme.com/,2026-05-21
+ao,氧化铝,SHFE,上海期货交易所,AFO,氧化铝,CBOE_AU,Cboe Australia,澳大利亚,1,B,辅助映射：氧化铝相关合约，需按公司行情源确认代码,https://www.cboe.com.au/,2026-05-21
+ao,氧化铝,SHFE,上海期货交易所,AXI,氧化铝,LME,London Metal Exchange,英国,2,B,辅助映射：氧化铝指数/合约相关，需按公司行情源确认代码,https://www.lme.com/,2026-05-21
+ru,天然橡胶,SHFE,上海期货交易所,RSS3,天然橡胶RSS3,TOCOM,Tokyo Commodity Exchange,日本,1,A,主映射：天然橡胶RSS3,https://www.jpx.co.jp/english/derivatives/products/rubber/rss3/index.html,2026-05-21
+ru,天然橡胶,SHFE,上海期货交易所,TSR20,天然橡胶TSR20,SICOM,Singapore Commodity Exchange,新加坡,2,A,主映射：天然橡胶TSR20,https://www.sgx.com/derivatives/products/sicom-rubber,2026-05-21
+nr,20号胶,INE,上海国际能源交易中心,TSR20,天然橡胶TSR20,SICOM,Singapore Commodity Exchange,新加坡,1,A,主映射：20号胶与TSR20橡胶更接近,https://www.sgx.com/derivatives/products/sicom-rubber,2026-05-21
+sc,原油,INE,上海国际能源交易中心,CL,WTI原油,NYMEX,NYMEX,美国,1,A,主映射：原油国际基准之一，NYMEX WTI,https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html,2026-05-21
+sc,原油,INE,上海国际能源交易中心,B,Brent原油,ICE,ICE Futures Europe,英国,2,A,主映射：原油国际基准之一，ICE Brent,https://www.ice.com/products/219/Brent-Crude-Futures,2026-05-21
+fu,燃料油,SHFE,上海期货交易所,HO,取暖油,NYMEX,NYMEX,美国,1,B,辅助映射：成品油/燃料油相关，非完全同一规格,https://www.cmegroup.com/markets/energy/refined-products/heating-oil.html,2026-05-21
+lu,低硫燃料油,INE,上海国际能源交易中心,G,低硫柴油/成品油,ICE,ICE Futures Europe,英国,1,B,辅助映射：低硫燃油相关，具体国外代码需按行情源确认,https://www.ice.com/products/34361119/Low-Sulphur-Gasoil-Futures,2026-05-21
+a,黄大豆1号,DCE,大连商品交易所,ZS,大豆,CBOT,CBOT,美国,1,A,主映射：大豆，CBOT Soybean,https://www.cmegroup.com/markets/agriculture/oilseeds/soybean.html,2026-05-21
+b,黄大豆2号,DCE,大连商品交易所,ZS,大豆,CBOT,CBOT,美国,1,A,主映射：大豆，CBOT Soybean,https://www.cmegroup.com/markets/agriculture/oilseeds/soybean.html,2026-05-21
+m,豆粕,DCE,大连商品交易所,ZM,豆粕,CBOT,CBOT,美国,1,A,主映射：豆粕，CBOT Soybean Meal,https://www.cmegroup.com/markets/agriculture/oilseeds/soybean-meal.html,2026-05-21
+y,豆油,DCE,大连商品交易所,ZL,豆油,CBOT,CBOT,美国,1,A,主映射：豆油，CBOT Soybean Oil,https://www.cmegroup.com/markets/agriculture/oilseeds/soybean-oil.html,2026-05-21
+p,棕榈油,DCE,大连商品交易所,FCPO,毛棕榈油,BMD,Bursa Malaysia Derivatives,马来西亚,1,A,主映射：棕榈油，Bursa Malaysia FCPO,https://www.bursamalaysia.com/trade/our_products_services/derivatives/commodities/crude_palm_oil_futures,2026-05-21
+c,玉米,DCE,大连商品交易所,ZC,玉米,CBOT,CBOT,美国,1,A,主映射：玉米，CBOT Corn,https://www.cmegroup.com/markets/agriculture/grains/corn.html,2026-05-21
+cs,玉米淀粉,DCE,大连商品交易所,ZC,玉米,CBOT,CBOT,美国,1,C,产业链映射：玉米淀粉对应上游玉米，不是同一标的,https://www.cmegroup.com/markets/agriculture/grains/corn.html,2026-05-21
+i,铁矿石,DCE,大连商品交易所,FEF,铁矿石,SGX,Singapore Exchange,新加坡,1,A,主映射：铁矿石，SGX Iron Ore相关合约；代码需按公司行情源确认,https://www.sgx.com/derivatives/products/iron-ore,2026-05-21
+jm,焦煤,DCE,大连商品交易所,SCC,焦煤/炼焦煤,SGX,Singapore Exchange,新加坡,1,B,辅助映射：炼焦煤相关，具体规格和代码需确认,https://www.sgx.com/derivatives/products/coal,2026-05-21
+j,焦炭,DCE,大连商品交易所,SCC,焦煤/炼焦煤,SGX,Singapore Exchange,新加坡,1,C,产业链映射：焦炭与炼焦煤相关但非同一标的，需确认是否使用,https://www.sgx.com/derivatives/products/coal,2026-05-21
+lg,原木,DCE,大连商品交易所,LBR,木材,CME,CME,美国,1,C,产业链/相关品类映射：木材，不是严格同一规格，需确认是否使用,https://www.cmegroup.com/markets/agriculture/lumber-and-pulp/random-length-lumber.html,2026-05-21
+CF,棉花,CZCE,郑州商品交易所,CT,棉花,ICE,ICE Futures U.S.,美国,1,A,主映射：棉花，ICE Cotton No.2,https://www.ice.com/products/254/Cotton-No-2-Futures,2026-05-21
+SR,白糖,CZCE,郑州商品交易所,SB,原糖,ICE,ICE Futures U.S.,美国,1,A,主映射：糖，ICE Sugar No.11,https://www.ice.com/products/23/Sugar-No-11-Futures,2026-05-21
+OI,菜籽油,CZCE,郑州商品交易所,RS,油菜籽/菜籽,ICE,ICE Futures U.S.,美国,1,B,辅助映射：油菜籽/菜籽相关，不完全等同菜籽油,https://www.ice.com/products/251/Canola-Futures,2026-05-21
+RM,菜籽粕,CZCE,郑州商品交易所,RS,油菜籽/菜籽,ICE,ICE Futures U.S.,美国,1,C,产业链映射：菜籽粕对应上游菜籽，不是同一标的,https://www.ice.com/products/251/Canola-Futures,2026-05-21
+WH,强麦,CZCE,郑州商品交易所,ZW,小麦,CBOT,CBOT,美国,1,B,辅助映射：小麦，CBOT Wheat；品种规格需确认,https://www.cmegroup.com/markets/agriculture/grains/wheat.html,2026-05-21
+PM,普麦,CZCE,郑州商品交易所,ZW,小麦,CBOT,CBOT,美国,1,B,辅助映射：小麦，CBOT Wheat；品种规格需确认,https://www.cmegroup.com/markets/agriculture/grains/wheat.html,2026-05-21
+PK,花生,CZCE,郑州商品交易所,BO,植物油篮子/油脂相关,CBOT,CBOT,美国,1,C,弱映射：花生油脂产业链相关，没有严格等价活跃期货，通常建议留空或人工确认,https://www.cmegroup.com/markets/agriculture/oilseeds.html,2026-05-21
+IF,沪深300股指,CFFEX,中国金融期货交易所,CN,富时中国A50指数,SGX,Singapore Exchange,新加坡,1,B,境外中国权益指数代理，不是沪深300同一标的，需确认是否用于跨市场映射,https://www.sgx.com/derivatives/products/china-a50,2026-05-21
+IH,上证50股指,CFFEX,中国金融期货交易所,CN,富时中国A50指数,SGX,Singapore Exchange,新加坡,1,B,境外中国权益指数代理，与上证50高度相关但不是同一指数,https://www.sgx.com/derivatives/products/china-a50,2026-05-21
+IC,中证500股指,CFFEX,中国金融期货交易所,MCA,MSCI中国A50互联互通指数,HKEX,Hong Kong Exchanges and Clearing,中国香港,1,C,弱映射：境外中国权益指数代理，不是中证500同一标的，谨慎使用,https://www.hkex.com.hk/Products/Listed-Derivatives/Equity-Index/MSCI-China-A-50-Connect-Index-Futures,2026-05-21
+IM,中证1000股指,CFFEX,中国金融期货交易所,MCA,MSCI中国A50互联互通指数,HKEX,Hong Kong Exchanges and Clearing,中国香港,1,C,弱映射：境外中国权益指数代理，不是中证1000同一标的，谨慎使用,https://www.hkex.com.hk/Products/Listed-Derivatives/Equity-Index/MSCI-China-A-50-Connect-Index-Futures,2026-05-21

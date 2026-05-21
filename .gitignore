@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.venv/
+venv/
+env/
+.env
+
+# Raw and intermediate data
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# Temporary files
+~$*
+*.tmp
