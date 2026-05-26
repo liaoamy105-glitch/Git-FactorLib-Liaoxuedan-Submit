@@ -1,0 +1,78 @@
+﻿asset_id,asset_type,subtype,symbol,name_cn,name_en,exchange_code,exchange_name,country,currency,underlying_group,sector,spot_category,spot_price_unit,spot_quote_unit,tradable,can_long,can_short,price_source_status,notes
+SPOT_CN_NATURAL_RUBBER,SPOT,COMMODITY_SPOT,NATURAL_RUBBER,NATURAL_RUBBER现货,NATURAL_RUBBER Spot,CN_SPOT,中国现货参考市场,CN,CNY,NATURAL_RUBBER,其他,其他,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_WIRE_ROD,SPOT,COMMODITY_SPOT,WIRE_ROD,WIRE_ROD现货,WIRE_ROD Spot,CN_SPOT,中国现货参考市场,CN,CNY,WIRE_ROD,其他,其他,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_APPLE,SPOT,COMMODITY_SPOT,APPLE,苹果现货,Apple Spot,CN_SPOT,中国现货参考市场,CN,CNY,APPLE,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COMMON_WHEAT,SPOT,COMMODITY_SPOT,COMMON_WHEAT,普麦现货,Common Wheat Spot,CN_SPOT,中国现货参考市场,CN,CNY,COMMON_WHEAT,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CORN,SPOT,COMMODITY_SPOT,CORN,玉米现货,Corn Spot,CN_SPOT,中国现货参考市场,CN,CNY,CORN,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CORN_STARCH,SPOT,COMMODITY_SPOT,CORN_STARCH,玉米淀粉现货,Corn Starch Spot,CN_SPOT,中国现货参考市场,CN,CNY,CORN_STARCH,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COTTON,SPOT,COMMODITY_SPOT,COTTON,棉花现货,Cotton Spot,CN_SPOT,中国现货参考市场,CN,CNY,COTTON,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COTTON_YARN,SPOT,COMMODITY_SPOT,COTTON_YARN,棉纱现货,Cotton Yarn Spot,CN_SPOT,中国现货参考市场,CN,CNY,COTTON_YARN,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_EARLY_INDICA_RICE,SPOT,COMMODITY_SPOT,EARLY_INDICA_RICE,早籼稻现货,Early Indica Rice Spot,CN_SPOT,中国现货参考市场,CN,CNY,EARLY_INDICA_RICE,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_EGG,SPOT,COMMODITY_SPOT,EGG,鸡蛋现货,Egg Spot,CN_SPOT,中国现货参考市场,CN,CNY,EGG,农产品,农产品,人民币元/克,元/克,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_HARD_WHEAT,SPOT,COMMODITY_SPOT,HARD_WHEAT,硬麦现货,Hard Wheat Spot,CN_SPOT,中国现货参考市场,CN,CNY,HARD_WHEAT,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_JAPONICA_RICE,SPOT,COMMODITY_SPOT,JAPONICA_RICE,粳米现货,Japonica Rice Spot,CN_SPOT,中国现货参考市场,CN,CNY,JAPONICA_RICE,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_JUJUBE,SPOT,COMMODITY_SPOT,JUJUBE,红枣现货,Jujube Spot,CN_SPOT,中国现货参考市场,CN,CNY,JUJUBE,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LATE_INDICA_RICE,SPOT,COMMODITY_SPOT,LATE_INDICA_RICE,晚籼稻现货,Late Indica Rice Spot,CN_SPOT,中国现货参考市场,CN,CNY,LATE_INDICA_RICE,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LIVE_HOG,SPOT,COMMODITY_SPOT,LIVE_HOG,生猪现货,Live Hog Spot,CN_SPOT,中国现货参考市场,CN,CNY,LIVE_HOG,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_STRONG_WHEAT,SPOT,COMMODITY_SPOT,STRONG_WHEAT,强麦现货,Strong Wheat Spot,CN_SPOT,中国现货参考市场,CN,CNY,STRONG_WHEAT,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SUGAR,SPOT,COMMODITY_SPOT,SUGAR,白糖现货,Sugar Spot,CN_SPOT,中国现货参考市场,CN,CNY,SUGAR,农产品,农产品,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_FIBERBOARD,SPOT,COMMODITY_SPOT,FIBERBOARD,纤维板现货,Fiberboard Spot,CN_SPOT,中国现货参考市场,CN,CNY,FIBERBOARD,建材,建材,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LOG,SPOT,COMMODITY_SPOT,LOG,原木现货,Log Spot,CN_SPOT,中国现货参考市场,CN,CNY,LOG,建材,建材,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PLYWOOD,SPOT,COMMODITY_SPOT,PLYWOOD,胶合板现货,Plywood Spot,CN_SPOT,中国现货参考市场,CN,CNY,PLYWOOD,建材,建材,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_INDUSTRIAL_SILICON,SPOT,COMMODITY_SPOT,INDUSTRIAL_SILICON,工业硅现货,Industrial Silicon Spot,CN_SPOT,中国现货参考市场,CN,CNY,INDUSTRIAL_SILICON,新能源,新能源,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LITHIUM_CARBONATE,SPOT,COMMODITY_SPOT,LITHIUM_CARBONATE,碳酸锂现货,Lithium Carbonate Spot,CN_SPOT,中国现货参考市场,CN,CNY,LITHIUM_CARBONATE,新能源,新能源,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_POLYSILICON,SPOT,COMMODITY_SPOT,POLYSILICON,多晶硅现货,Polysilicon Spot,CN_SPOT,中国现货参考市场,CN,CNY,POLYSILICON,新能源,新能源,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_ALUMINA,SPOT,COMMODITY_SPOT,ALUMINA,氧化铝现货,Alumina Spot,CN_SPOT,中国现货参考市场,CN,CNY,ALUMINA,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_ALUMINUM,SPOT,COMMODITY_SPOT,ALUMINUM,铝现货,Aluminum Spot,CN_SPOT,中国现货参考市场,CN,CNY,ALUMINUM,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CAST_ALUMINUM_ALLOY,SPOT,COMMODITY_SPOT,CAST_ALUMINUM_ALLOY,铸造铝合金现货,Cast Aluminum Alloy Spot,CN_SPOT,中国现货参考市场,CN,CNY,CAST_ALUMINUM_ALLOY,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COPPER,SPOT,COMMODITY_SPOT,COPPER,铜现货,Copper Spot,CN_SPOT,中国现货参考市场,CN,CNY,COPPER,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LEAD,SPOT,COMMODITY_SPOT,LEAD,铅现货,Lead Spot,CN_SPOT,中国现货参考市场,CN,CNY,LEAD,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_NICKEL,SPOT,COMMODITY_SPOT,NICKEL,镍现货,Nickel Spot,CN_SPOT,中国现货参考市场,CN,CNY,NICKEL,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_TIN,SPOT,COMMODITY_SPOT,TIN,锡现货,Tin Spot,CN_SPOT,中国现货参考市场,CN,CNY,TIN,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_ZINC,SPOT,COMMODITY_SPOT,ZINC,锌现货,Zinc Spot,CN_SPOT,中国现货参考市场,CN,CNY,ZINC,有色金属,有色金属,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PALM_OIL,SPOT,COMMODITY_SPOT,PALM_OIL,棕榈油现货,Palm Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,PALM_OIL,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PEANUT,SPOT,COMMODITY_SPOT,PEANUT,花生现货,Peanut Spot,CN_SPOT,中国现货参考市场,CN,CNY,PEANUT,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_RAPESEED,SPOT,COMMODITY_SPOT,RAPESEED,油菜籽现货,Rapeseed Spot,CN_SPOT,中国现货参考市场,CN,CNY,RAPESEED,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_RAPESEED_MEAL,SPOT,COMMODITY_SPOT,RAPESEED_MEAL,菜粕现货,Rapeseed Meal Spot,CN_SPOT,中国现货参考市场,CN,CNY,RAPESEED_MEAL,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_RAPESEED_OIL,SPOT,COMMODITY_SPOT,RAPESEED_OIL,菜籽油现货,Rapeseed Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,RAPESEED_OIL,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SOYBEAN,SPOT,COMMODITY_SPOT,SOYBEAN,大豆现货,Soybean Spot,CN_SPOT,中国现货参考市场,CN,CNY,SOYBEAN,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SOYBEAN_MEAL,SPOT,COMMODITY_SPOT,SOYBEAN_MEAL,豆粕现货,Soybean Meal Spot,CN_SPOT,中国现货参考市场,CN,CNY,SOYBEAN_MEAL,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SOYBEAN_OIL,SPOT,COMMODITY_SPOT,SOYBEAN_OIL,豆油现货,Soybean Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,SOYBEAN_OIL,油脂油料,油脂油料,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_BENZENE,SPOT,COMMODITY_SPOT,BENZENE,纯苯现货,Benzene Spot,CN_SPOT,中国现货参考市场,CN,CNY,BENZENE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_BITUMEN,SPOT,COMMODITY_SPOT,BITUMEN,沥青现货,Bitumen Spot,CN_SPOT,中国现货参考市场,CN,CNY,BITUMEN,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_BOTTLE_GRADE_PET,SPOT,COMMODITY_SPOT,BOTTLE_GRADE_PET,瓶片现货,Bottle-grade PET Spot,CN_SPOT,中国现货参考市场,CN,CNY,BOTTLE_GRADE_PET,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_BUTADIENE_RUBBER,SPOT,COMMODITY_SPOT,BUTADIENE_RUBBER,丁二烯橡胶现货,Butadiene Rubber Spot,CN_SPOT,中国现货参考市场,CN,CNY,BUTADIENE_RUBBER,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CAUSTIC_SODA,SPOT,COMMODITY_SPOT,CAUSTIC_SODA,烧碱现货,Caustic Soda Spot,CN_SPOT,中国现货参考市场,CN,CNY,CAUSTIC_SODA,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CONTAINER_SHIPPING_INDEX_EUROPE,SPOT,COMMODITY_SPOT,CONTAINER_SHIPPING_INDEX_EUROPE,集运欧线现货参考,Container Shipping Europe Spot Reference,CN_SPOT,中国现货参考市场,CN,CNY,CONTAINER_SHIPPING_INDEX_EUROPE,能源化工,能源化工,指数点,点,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_CRUDE_OIL,SPOT,COMMODITY_SPOT,CRUDE_OIL,原油现货,Crude Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,CRUDE_OIL,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_ETHYLENE_GLYCOL,SPOT,COMMODITY_SPOT,ETHYLENE_GLYCOL,乙二醇现货,Ethylene Glycol Spot,CN_SPOT,中国现货参考市场,CN,CNY,ETHYLENE_GLYCOL,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_FUEL_OIL,SPOT,COMMODITY_SPOT,FUEL_OIL,燃料油现货,Fuel Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,FUEL_OIL,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_GLASS,SPOT,COMMODITY_SPOT,GLASS,玻璃现货,Glass Spot,CN_SPOT,中国现货参考市场,CN,CNY,GLASS,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LLDPE,SPOT,COMMODITY_SPOT,LLDPE,线性低密度聚乙烯现货,LLDPE Spot,CN_SPOT,中国现货参考市场,CN,CNY,LLDPE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LOW_SULFUR_FUEL_OIL,SPOT,COMMODITY_SPOT,LOW_SULFUR_FUEL_OIL,低硫燃料油现货,Low Sulfur Fuel Oil Spot,CN_SPOT,中国现货参考市场,CN,CNY,LOW_SULFUR_FUEL_OIL,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_LPG,SPOT,COMMODITY_SPOT,LPG,LPG现货,LPG Spot,CN_SPOT,中国现货参考市场,CN,CNY,LPG,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_METHANOL,SPOT,COMMODITY_SPOT,METHANOL,甲醇现货,Methanol Spot,CN_SPOT,中国现货参考市场,CN,CNY,METHANOL,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_OFFSET_PAPER,SPOT,COMMODITY_SPOT,OFFSET_PAPER,胶版印刷纸现货,Offset Paper Spot,CN_SPOT,中国现货参考市场,CN,CNY,OFFSET_PAPER,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PARAXYLENE,SPOT,COMMODITY_SPOT,PARAXYLENE,对二甲苯现货,Paraxylene Spot,CN_SPOT,中国现货参考市场,CN,CNY,PARAXYLENE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_POLYESTER_STAPLE_FIBER,SPOT,COMMODITY_SPOT,POLYESTER_STAPLE_FIBER,短纤现货,Polyester Staple Fiber Spot,CN_SPOT,中国现货参考市场,CN,CNY,POLYESTER_STAPLE_FIBER,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_POLYPROPYLENE,SPOT,COMMODITY_SPOT,POLYPROPYLENE,聚丙烯现货,Polypropylene Spot,CN_SPOT,中国现货参考市场,CN,CNY,POLYPROPYLENE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PROPYLENE,SPOT,COMMODITY_SPOT,PROPYLENE,丙烯现货,Propylene Spot,CN_SPOT,中国现货参考市场,CN,CNY,PROPYLENE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PTA,SPOT,COMMODITY_SPOT,PTA,PTA现货,PTA Spot,CN_SPOT,中国现货参考市场,CN,CNY,PTA,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PULP,SPOT,COMMODITY_SPOT,PULP,纸浆现货,Pulp Spot,CN_SPOT,中国现货参考市场,CN,CNY,PULP,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PVC,SPOT,COMMODITY_SPOT,PVC,PVC现货,PVC Spot,CN_SPOT,中国现货参考市场,CN,CNY,PVC,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SODA_ASH,SPOT,COMMODITY_SPOT,SODA_ASH,纯碱现货,Soda Ash Spot,CN_SPOT,中国现货参考市场,CN,CNY,SODA_ASH,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_STYRENE,SPOT,COMMODITY_SPOT,STYRENE,苯乙烯现货,Styrene Spot,CN_SPOT,中国现货参考市场,CN,CNY,STYRENE,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_UREA,SPOT,COMMODITY_SPOT,UREA,尿素现货,Urea Spot,CN_SPOT,中国现货参考市场,CN,CNY,UREA,能源化工,能源化工,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_GOLD,SPOT,COMMODITY_SPOT,GOLD,黄金现货,Gold Spot,CN_SPOT,中国现货参考市场,CN,CNY,GOLD,贵金属,贵金属,人民币元/克,元/克,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PALLADIUM,SPOT,COMMODITY_SPOT,PALLADIUM,钯现货,Palladium Spot,CN_SPOT,中国现货参考市场,CN,CNY,PALLADIUM,贵金属,贵金属,人民币元/克,元/克,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_PLATINUM,SPOT,COMMODITY_SPOT,PLATINUM,铂现货,Platinum Spot,CN_SPOT,中国现货参考市场,CN,CNY,PLATINUM,贵金属,贵金属,人民币元/克,元/克,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SILVER,SPOT,COMMODITY_SPOT,SILVER,白银现货,Silver Spot,CN_SPOT,中国现货参考市场,CN,CNY,SILVER,贵金属,贵金属,人民币元/克,元/克,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COKE,SPOT,COMMODITY_SPOT,COKE,焦炭现货,Coke Spot,CN_SPOT,中国现货参考市场,CN,CNY,COKE,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_COKING_COAL,SPOT,COMMODITY_SPOT,COKING_COAL,焦煤现货,Coking Coal Spot,CN_SPOT,中国现货参考市场,CN,CNY,COKING_COAL,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_FERROSILICON,SPOT,COMMODITY_SPOT,FERROSILICON,硅铁现货,Ferrosilicon Spot,CN_SPOT,中国现货参考市场,CN,CNY,FERROSILICON,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_HOT_ROLLED_COIL,SPOT,COMMODITY_SPOT,HOT_ROLLED_COIL,热轧卷板现货,Hot-Rolled Coil Spot,CN_SPOT,中国现货参考市场,CN,CNY,HOT_ROLLED_COIL,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_IRON_ORE,SPOT,COMMODITY_SPOT,IRON_ORE,铁矿石现货,Iron Ore Spot,CN_SPOT,中国现货参考市场,CN,CNY,IRON_ORE,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_REBAR,SPOT,COMMODITY_SPOT,REBAR,螺纹钢现货,Rebar Spot,CN_SPOT,中国现货参考市场,CN,CNY,REBAR,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_SILICOMANGANESE,SPOT,COMMODITY_SPOT,SILICOMANGANESE,锰硅现货,Silicomanganese Spot,CN_SPOT,中国现货参考市场,CN,CNY,SILICOMANGANESE,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_STAINLESS_STEEL,SPOT,COMMODITY_SPOT,STAINLESS_STEEL,STAINLESS_STEEL现货,STAINLESS_STEEL Spot,CN_SPOT,中国现货参考市场,CN,CNY,STAINLESS_STEEL,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。
+SPOT_CN_THERMAL_COAL,SPOT,COMMODITY_SPOT,THERMAL_COAL,动力煤现货,Thermal Coal Spot,CN_SPOT,中国现货参考市场,CN,CNY,THERMAL_COAL,黑色,黑色,人民币元/吨,元/吨,N,N,N,SPOT_REFERENCE_ONLY,商品现货参考资产，用于期货-现货映射和后续套利组合构建；不代表可直接交易。

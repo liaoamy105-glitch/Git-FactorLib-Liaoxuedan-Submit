@@ -1,0 +1,13 @@
+修复前 arbitrage_mapping_pairs 行数: 679
+修复前 self_mapping_count: 180
+修复后 arbitrage_mapping_pairs 行数: 499
+修复后 self_mapping_count: 0
+删除 self mapping 行数: 180
+pair_id 重复数: 0
+base_future 覆盖数量: 98
+SPOT 映射行数: 90
+商品期货 spot_mapping 覆盖率: 100.00%
+是否存在多资产塞一个格子: N
+validation_summary FAIL 数量: 0
+validation_summary WARN 数量: 0
+最终结论: PASS
